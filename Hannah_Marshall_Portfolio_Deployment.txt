@@ -1,0 +1,4 @@
+Video: https://vimeo.com/136361670
+Staging Server: http://107.170.222.196
+Production Server: http://marshallhannah.me
+Git: https://github.com/mhannah-fs/DWA-staging
